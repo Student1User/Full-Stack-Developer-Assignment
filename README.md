@@ -8,6 +8,9 @@ This project automates sending SMS messages from an Android device using:
 - **CSV contact lists**
 - **Python logging**
 
+Alternative link to the video https://drive.google.com/file/d/1FmW7O-suxzb5CJSfB9JsX6fzvOzR4dVG/view?usp=sharing
+
+
 This solution is fully free and demonstrates real automation skills suitable for professional environments.
 
 ---
@@ -80,6 +83,7 @@ Copy code
 - No external API is used  
 - The CSV file should be stored securely  
 - The user must trust the connected phone (USB debugging)
+- 
 
 ---
 

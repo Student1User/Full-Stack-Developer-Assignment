@@ -1,0 +1,18 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# Media (optional)
+*.mp4
